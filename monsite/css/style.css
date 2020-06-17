@@ -1,0 +1,17 @@
+#titre{
+	color: blue;
+	border : thin solid;
+	width: 200px;
+	height: 300px;
+	
+	float: left;
+}
+
+.copains{
+	font-weight: bold;
+	color: red;
+}
+
+h2{
+	font-family: Courier New; 
+}
